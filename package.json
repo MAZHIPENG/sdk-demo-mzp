@@ -1,0 +1,23 @@
+{
+  "name": "sdk-demo-mzp",
+  "version": "1.0.0",
+  "description": "push sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAZHIPENG/sdk-demo-mzp.git"
+  },
+  "keywords": [
+    "push",
+    "sdk"
+  ],
+  "author": "mzp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAZHIPENG/sdk-demo-mzp/issues"
+  },
+  "homepage": "https://github.com/MAZHIPENG/sdk-demo-mzp#readme"
+}
