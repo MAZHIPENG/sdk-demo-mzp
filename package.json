@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MAZHIPENG/sdk-demo-mzp/issues"
   },
-  "homepage": "https://github.com/MAZHIPENG/sdk-demo-mzp#readme"
+  "homepage": "https://github.com/MAZHIPENG/sdk-demo-mzp#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
